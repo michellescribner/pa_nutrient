@@ -1,0 +1,20 @@
+"","Position1","Gene1","Annotation1","Description1","Position2","Gene2","Annotation2","Description2","Biofilm, Population 1, Day 12","Biofilm, Population 2, Day 12","Biofilm, Population 3, Day 12","Biofilm, Population 4, Day 12","Biofilm, Population 5, Day 12","PA14 Ancestor","Planktonic, Population 1, Day 12","Planktonic, Population 2, Day 12","Planktonic, Population 3, Day 12","Planktonic, Population 4, Day 12","Planktonic, Population 5, Day 12"
+"1","3175697 =","PA14_35700/PA14_35710","intergenic^A (+390/+106)","hypothetical protein/hypothetical protein","= 3177289","PA14_35730","coding (70/375 nt)","hypothetical protein",66.3,56.3,54.5,57.7,53.4,61.5,56.1,54.5,53.4,55.4,99.1
+"2","4345126 =","PA14_48870/PA14_48880","intergenic (-45/+61)","C32 tRNA thiolase/bacteriophage integrase","= 4355790","PA14_49030/PA14_49040","intergenic (+917/-59)","hypothetical protein/hypothetical protein",20.8,16.8,11.5,6.6,0,0,7.1,5.5,0,0,98.8
+"3","= 4081494","PA14_45910/PA14_45920","intergenic (-78/-103)","RND efflux membrane fusion protein/hypothetical protein","4130628 =","PA14_46440","coding (520/534 nt)","acetyltransferase",0,0,0,0,0,0,0,5.5,0,0,0
+"4","= 4071618","fliM","coding (60/972 nt)","flagellar motor switch protein FliM","4112326 =","PA14_46240","coding (1138/2424 nt)","hypothetical protein",0,0,0,0,0,0,0,0,11.7,0,0
+"5","4338302 =","PA14_48800","coding (489/618 nt)","hypothetical protein","= 4353244","xisF5/pf5r","intergenic (-85/-43)","Pf5 prophage excisionase, XisF5/Pf5 repressor C",85.3,0,0,0,0,0,0,0,0,0,0
+"6","= 4338980","PA14_48810","coding (647/771 nt)","NAD-dependent deacetylase","4346095 =","PA14_48880","coding (109/1017 nt)","bacteriophage integrase",71.5,0,0,0,0,0,0,0,0,0,0
+"7","= 4339008","PA14_48810","coding (619/771 nt)","NAD-dependent deacetylase","4346003 =","PA14_48880","coding (201/1017 nt)","bacteriophage integrase",13.3,0,0,0,0,0,0,0,0,0,0
+"8","= 4339366","PA14_48810","coding (261/771 nt)","NAD-dependent deacetylase","4345624 =","PA14_48880","coding (580/1017 nt)","bacteriophage integrase",6.2,0,0,0,0,0,0,0,0,0,0
+"9","= 4339381","PA14_48810","coding (246/771 nt)","NAD-dependent deacetylase","4345620 =","PA14_48880","coding (584/1017 nt)","bacteriophage integrase",5.1,0,0,0,0,0,0,0,0,0,0
+"10","= 4339804","PA14_48830","coding (1236/1401 nt)","transcriptional regulator","4345601 =","PA14_48880","coding (603/1017 nt)","bacteriophage integrase",9.4,0,0,0,0,0,0,0,0,0,0
+"11","2383554 =","PA14_27450/tpm","intergenic (+43/-13)","hypothetical protein/thiopurine S-methyltransferase","= 2476282","PA14_28760/PA14_28770","intergenic (-194/-389)","hypothetical protein/hypothetical protein",0,0,12.7,0,0,0,0,0,0,0,0
+"12","2461388 =","PA14_28540","coding (72/234 nt)","hypothetical protein","2461470 =","PA14_28540","coding (154/234 nt)","hypothetical protein",0,0,0,0,0,6.5,0,0,0,0,0
+"13","= 4379135","PA14_49290","coding (639/735 nt)","hypothetical protein","= 4379194","PA14_49290","coding (698/735 nt)","hypothetical protein",0,0,0,0,0,5.7,0,0,0,0,0
+"14","= 4389914","rrmA","coding (194/804 nt)","rRNA methyltransferase","= 4390027","rrmA","coding (307/804 nt)","rRNA methyltransferase",0,0,0,0,0,9.4,0,0,0,0,0
+"15","= 4736663","PA14_53410","coding (531/591 nt)","transcriptional regulator","= 4736748","PA14_53410","coding (446/591 nt)","transcriptional regulator",0,0,0,0,0,6.6,0,0,0,0,0
+"16","6298734 =","ubiA","coding (511/891 nt)","4-hydroxybenzoate octaprenyltransferase","6298934 =","ubiA","coding (711/891 nt)","4-hydroxybenzoate octaprenyltransferase",0,0,0,0,0,6,0,0,0,0,0
+"17","= 2793805","xylZ","coding (628/1014 nt)","toluate 1,2-dioxygenase electron transfer component","2795365 =","antC","coding (642/1023 nt)","anthranilate dioxygenase reductase",0,0,0,0,0,0,0,0,0,0,5.1
+"18","= 4345135","PA14_48870/PA14_48880","intergenic (-54/+52)","C32 tRNA thiolase/bacteriophage integrase","4355801 =","PA14_49030/PA14_49040","intergenic (+928/-48)","hypothetical protein/hypothetical protein",0,0,0,0,0,0,0,0,0,0,8.4
+"19","4353517 =","pf5r","coding (231/267 nt)","Pf5 repressor C","= 4353532","pf5r","coding (246/267 nt)","Pf5 repressor C",0,0,0,0,0,0,0,0,0,0,51.2

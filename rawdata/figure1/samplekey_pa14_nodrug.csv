@@ -1,0 +1,12 @@
+num,Sample,Population
+10,04,"Planktonic, Population 1, Day 12"
+9,05,"Planktonic, Population 2, Day 12"
+8,06,"Planktonic, Population 3, Day 12"
+5,33,"Biofilm, Population 1, Day 12"
+4,34,"Biofilm, Population 2, Day 12"
+3,35,"Biofilm, Population 3, Day 12"
+2,B4,"Biofilm, Population 4, Day 12"
+1,B5,"Biofilm, Population 5, Day 12"
+7,P4,"Planktonic, Population 4, Day 12"
+6,P5,"Planktonic, Population 5, Day 12"
+,anc,PA14 Ancestor

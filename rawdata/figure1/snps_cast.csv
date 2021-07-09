@@ -1,0 +1,57 @@
+"","Gene","Annotation","Mutation","Description","Position","Biofilm, Population 1, Day 12","Biofilm, Population 2, Day 12","Biofilm, Population 3, Day 12","Biofilm, Population 4, Day 12","Biofilm, Population 5, Day 12","Planktonic, Population 1, Day 12","Planktonic, Population 2, Day 12","Planktonic, Population 3, Day 12","Planktonic, Population 4, Day 12","Planktonic, Population 5, Day 12"
+"1","PA14_08670/tufB","intergenic (+23/-65)","G->A","tRNA-Thr/elongation factor Tu","741,246",0,0,0,0,0,78.8,0,0,0,0
+"2","PA14_32520","T19P (ACC->CCC) ","A->C","hypothetical protein","2,824,849",0,0,0,0,0,19.2,0,0,0,0
+"3","morA","E1153K (GAG->AAG) ","G->A","motility regulator","5,432,293",0,0,0,0,0,88,0,0,0,0
+"4","PA14_68440/PA14_68450","intergenic (+403/-9)","T->G","oxidoreductase/hypothetical protein","6,107,688",0,0,0,0,0,8.4,0,0,0,0
+"5","PA14_68820/PA14_68830","intergenic (+128/-94)","A->C","secretion pathway ATPase/hypothetical protein","6,139,352",0,0,0,0,0,10.6,0,0,0,0
+"6","morA","N1124K (AAC->AAG) ","C->G","motility regulator","5,432,208",0,0,0,0,0,0,15.8,0,0,0
+"7","orfK","coding (162/1137 nt)","+A","UDP-N-acetylglucosamine 2-epimerase","2,028,245",0,0,0,0,0,0,0,5,0,0
+"8","morA","K1123E (AAG->GAG) ","A->G","motility regulator","5,432,203",0,0,0,0,0,0,0,41,0,0
+"9","PA14_67790","Q252P (CAG->CCG) ","A->C","membrane-bound metallopeptidase","6,053,880",0,0,0,0,0,0,0,16.5,0,0
+"10","wspF","E189* (GAG->TAG) ","G->T","chemotaxis-specific methylesterase","1,412,607",25.6,0,0,0,0,0,0,0,0,0
+"11","PA14_39860","coding (1416/1641 nt)","1 bp","hypothetical protein","3,554,480",7.1,0,0,0,0,0,0,0,0,0
+"12","PA14_45060","V106M (GTG->ATG) ","G->A","transporter","4,019,435",6.1,0,0,0,0,0,0,0,0,0
+"13","lasR","G164* (GGA->TGA) ","C->A","transcriptional regulator LasR","4,085,569",10.7,0,0,0,0,0,0,0,0,0
+"14","pilB/pilC","intergenic (+57/-43)","+AGCGGCGTCCCGCGAT","type 4 fimbrial biogenesis protein PilB/type 4 fimbrial biogenesis protein pilC","5,236,039",14,0,0,0,0,0,0,0,0,0
+"15","pilC","coding (1058-1062/1122 nt)","5 bp","type 4 fimbrial biogenesis protein pilC","5,237,139",6.6,0,0,0,0,0,0,0,0,0
+"16","pilY1","coding (1245-1263/3477 nt)","19 bp","type 4 fimbrial biogenesis protein PilY1","5,374,398",10,0,0,0,0,0,0,0,0,0
+"17","pilY1","G957D (GGT->GAT) ","G->A","type 4 fimbrial biogenesis protein PilY1","5,376,023",9.6,0,0,0,0,0,0,0,0,0
+"18","PA14_64050","R26C (CGC->TGC) ","C->T","two-component response regulator","5,706,806",59.7,27.4,0,0,0,0,0,0,0,0
+"19","pilQ","coding (916/2133 nt)","1 bp","type 4 fimbrial biogenesis outer membrane protein PilQ precursor","5,948,333",5.3,0,0,0,0,0,0,0,0,0
+"20","pstA","P453L (CCG->CTG) ","G->A","phosphate ABC transporter permease","6,307,298",5.1,0,0,0,0,0,0,0,0,0
+"21","lasR","P117L (CCG->CTG) ","G->A","transcriptional regulator LasR","4,085,709",0,6.9,0,0,0,0,0,0,0,0
+"22","PA14_50060","V1M (GTG->ATG) +","G->A","hypothetical protein","4,449,985",0,42.3,0,0,0,0,0,0,0,0
+"23","nemO/PA14_55590","intergenic (-117/-189)","C->G","heme oxygenase/hypothetical protein","4,946,439",0,22.9,0,0,0,0,0,0,0,0
+"24","fruR/PA14_18250","intergenic (-267/-61)","T->G","DNA-binding transcriptional regulator FruR/phosphotransferase system enzyme I","1,563,658",0,0,11.1,0,0,0,0,0,0,0
+"25","PA14_28895","W176G (TGG->GGG) ","A->C","hypothetical protein","2,499,710",0,0,6.5,0,0,0,0,0,0,0
+"26","PA14_48350","A138A (GCT->GCG) ","A->C","hypothetical protein","4,302,456",0,0,9.9,0,0,0,0,0,0,0
+"27","PA14_50050/PA14_50060","intergenic (+96/-21)","G->A","MFS family transporter/hypothetical protein","4,449,964",0,0,14.4,13.3,68.9,0,0,0,0,0
+"28","PA14_50050/PA14_50060","intergenic (+103/-14)","C->A","MFS family transporter/hypothetical protein","4,449,971",0,0,68.2,70.3,0,0,0,0,0,0
+"29","PA14_50060","A2T (GCC->ACC) ","G->A","hypothetical protein","4,449,988",0,0,11.7,0,0,0,0,0,0,0
+"30","PA14_58900","G492G (GGT->GGA) ","T->A","large exoprotein","5,248,429",0,0,9.6,0,0,0,0,0,0,0
+"31","prs","coding (525/942 nt)","1 bp","ribose-phosphate pyrophosphokinase","5,510,875",0,0,5.1,0,0,0,0,0,0,0
+"32","PA14_22860/PA14_22870","intergenic (+42/-40)","A->C","transcriptional regulator/hypothetical protein","1,984,641",0,0,0,23.6,0,0,0,0,0,34.1
+"33","PA14_29010","Q53P (CAG->CCG) ","T->G","MerR family transcriptional regulator","2,508,668",0,0,0,12.2,0,0,0,0,0,0
+"34","PA14_36660","A289V (GCG->GTG) ","C->T","alcohol dehydrogenase","3,265,532",0,0,0,5.1,0,0,0,0,0,0
+"35","PA14_09850/eftM","intergenic (-221/+17)","G->A","porin/SAM-dependent methyltransferase , EftM","847,986",0,0,0,0,5.2,0,0,0,0,0
+"36","wspA","A492E (GCG->GAG) ","C->A","chemotaxis transducer","1,407,119",0,0,0,0,10.1,0,0,0,0,0
+"37","PA14_44170","coding (158/180 nt)","1 bp","hypothetical protein","3,930,965",0,0,0,0,5.1,0,0,0,0,0
+"38","PA14_56870","P84P (CCA->CCG) ","A->G","hypothetical protein","5,066,005",0,0,0,0,5.2,0,0,0,0,0
+"39","wspD","E42G (GAG->GGG) ","A->G","CheW domain-containing protein","1,409,175",0,0,0,0,0,0,0,0,6.3,0
+"40","PA14_35800","V191V (GTC->GTG) ","G->C","hypothetical protein","3,185,743",0,0,0,0,0,0,0,0,7.4,0
+"41","metE","A477V (GCG->GTG) ","G->A","5- methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase","3,524,323",0,0,0,0,0,0,0,0,5.6,0
+"42","pcrD","coding (946-948/2121 nt)","3 bp","type III secretory apparatus protein PcrD","3,784,453",0,0,0,0,0,0,0,0,8.7,0
+"43","lasR","R216Q (CGG->CAG) ","C->T","transcriptional regulator LasR","4,085,412",0,0,0,0,0,0,0,0,6.8,10.4
+"44","lasR","R216W (CGG->TGG) ","G->A","transcriptional regulator LasR","4,085,413",0,0,0,0,0,0,0,0,5.5,0
+"45","lasR","C79F (TGT->TTT) ","C->A","transcriptional regulator LasR","4,085,823",0,0,0,0,0,0,0,0,10.8,0
+"46","PA14_48710","P85S (CCG->TCG) ","G->A","hypothetical protein","4,332,513",0,0,0,0,0,0,0,0,6.4,0
+"47","morA","L1155Q (CTG->CAG) ","T->A","motility regulator","5,432,300",0,0,0,0,0,0,0,0,22,14.9
+"48","PA14_61890","V201V (GTG->GTA) ","C->T","hypothetical protein","5,520,112",0,0,0,0,0,0,0,0,6.5,0
+"49","ribA","L194F (CTC->TTC) ","C->T","GTP cyclohydrolase II","996,444",0,0,0,0,0,0,0,0,0,9.8
+"50","lasR","A231T (GCC->ACC) ","C->T","transcriptional regulator LasR","4,085,368",0,0,0,0,0,0,0,0,0,7.1
+"51","lasR","A189P (GCC->CCC) ","C->G","transcriptional regulator LasR","4,085,494",0,0,0,0,0,0,0,0,0,8.1
+"52","lasR","E103* (GAG->TAG) ","C->A","transcriptional regulator LasR","4,085,752",0,0,0,0,0,0,0,0,0,16.4
+"53","xisF5/pf5r","intergenic (-46/-82)","A->G","Pf5 prophage excisionase, XisF5/Pf5 repressor C","4,353,205",0,0,0,0,0,0,0,0,0,9.7
+"54","pf5r","A87A (GCG->GCT) ","G->T","Pf5 repressor C","4,353,547",0,0,0,0,0,0,0,0,0,27.6
+"55","morA","A1109V (GCC->GTC) ","C->T","motility regulator","5,432,162",0,0,0,0,0,0,0,0,0,5.7
+"56","PA14_64170/PA14_64180","intergenic (+37/-167)","G->A","hypothetical protein/hypothetical protein","5,718,146",0,0,0,0,0,0,0,0,0,5.5
